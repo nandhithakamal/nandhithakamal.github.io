@@ -4,7 +4,7 @@ title: 'India After Sunset'
 draft: false
 date: 2023-08-10
 author: Nandhitha Kamal
-custom-tag: custom
+categories: reading
 ---
 
 Hello hello hello! It's been a while since I had any serious reading done.
