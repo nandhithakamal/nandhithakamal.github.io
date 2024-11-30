@@ -1,0 +1,10 @@
+fileignoreconfig:
+- filename: _posts/2020-05-27-how-to-tpm-part-1.md
+  checksum: cb6d4cf1e23f6b664f600c10941d47f61e7eb50e087482f8e79433749ca6f6a2
+- filename: _posts/2020-06-11-how-to-tpm-part-2.md
+  checksum: 96417ba00af37b650e4db8c65803547693d179f45079d1e520985915dd0ac2c8
+- filename: _posts/2024-06-06-building-a-discord-gpt-bot.md
+  checksum: 8fcc49cecf4409a79bdf0ab5aa4d7ed06898253d61622a7c66129d16f1dfb61b
+- filename: _posts/2024-06-24-genai-dictionary-part-1.md
+  checksum: 6c239ee0c5ef405c9c92423cd58e2053e725e8626cdb09baf8208f0c639b2c10
+version: "1.0"
