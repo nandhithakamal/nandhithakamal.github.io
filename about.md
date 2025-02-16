@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hey, you there!
 
-I am Nandhitha, a software engineer. I like to think of it more like solving problems. I have a wide breath of experience building engineering systems.
+I am Nandhitha, a software engineer. I like to think of it more like solving problems. I have a wide breadth of experience building engineering systems.
 I like novelty, and like to work on challenging problem statements, even if niche or obscure.
 
 In my spare time - I like to read, practice my uke or recently, I have been trying to paint with watercolors.
